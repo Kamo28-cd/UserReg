@@ -9,6 +9,6 @@ In root folder:
 In root folder
 ```npm run build && npm run dev```
 
-## Start Server
+## Start Backend
 ```cd backend && npm run dev```
 
