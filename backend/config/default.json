@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://app_dev:app_dev@cluster0.oqwrg.mongodb.net/?retryWrites=true&w=majority",
+  "appsecret": "appsecret"
+}
